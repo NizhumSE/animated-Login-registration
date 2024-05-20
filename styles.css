@@ -28,6 +28,10 @@ body {
     transition: transform 0.6s ease-in-out;
 }
 
+.white{
+    color: #FFFFFF;
+}
+
         .transparent-bg {
     background-color: rgba(255, 255, 255, 0.2); /* Adjust the alpha value for transparency */
     backdrop-filter: blur(10px); /* Adjust the blur strength */
